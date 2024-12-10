@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmarze
 - 👀 I’m interested in optics and data science
 - 🌱 I’m currently learning ML tools for data analysis
-- 💞️ I’m looking to collaborate on ML prijects in Python
+- 💞️ I’m looking to collaborate on ML projects in Python
 - 📫 How to reach me - just drop me an email
 - 😄 Pronouns: he/his/him
 
